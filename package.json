@@ -1,0 +1,16 @@
+{
+  "name": "@fastman/test-npm",
+  "version": "0.0.0",
+  "description": "Test npm package for fastman",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fastman/test-npm.git"
+  },
+  "keywords": [],
+  "author": "fastman",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
