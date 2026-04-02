@@ -17,9 +17,7 @@
     "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
-  "devDependencies": {
-    "debug": "4.4.3"
-  },
+  "devDependencies": {},
   "dependencies": {
     "colors": "1.4.0"
   }
