@@ -10,6 +10,9 @@
   "keywords": [],
   "author": "fastman",
   "license": "MIT",
+  "scripts": {
+    "build": "echo 'Build step - add your build commands here'"
+  },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   }
