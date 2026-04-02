@@ -15,5 +15,11 @@
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "debug": "4.4.3"
+  },
+  "dependencies": {
+    "colors": "1.4.0"
   }
 }
